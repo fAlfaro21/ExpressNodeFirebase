@@ -1,0 +1,12 @@
+{
+"words":[
+            {
+            "word": "Palabra en firebase 1",
+            "id": "1"
+            },
+            {
+            "word": "Palabra en firebase 2",
+            "id": "2"
+            }
+        ]
+}

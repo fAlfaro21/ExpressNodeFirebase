@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio Node Express</title>
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+</head>
+<body>
+    <div id="putAWordDiv">
+        <div>
+            <label for="newWord">Introduce tu palabra:</label>
+            <input type="text" name="newWord" id="newWord" placeholder="Tu palabra...">
+        </div>
+        <div>
+            <p id="wordPrint"></p>
+        </div>
+    </div>
+    <!-- <button id="getAWord">Dame las palabras</button> -->
+    <button id="getAWordFromFireBase">Dame palabras de Firebase</button>
+    <button id="postAWord">Toma/Agerga una palabra a firebase</button>
+    <!-- <button id="putWordFromFile">Modifica la palabra en firebase</button> -->
+
+    <div id="getAWordDiv"></div>
+    
+    <script src="main.js"></script>
+    <script src="wordsFile.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-app.js"></script>
+
+</body>
+</html>
