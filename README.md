@@ -16,7 +16,7 @@ DELETE (accepts an id).
 
 1.Creating the Web server with Express
 
-2. Method: GET / give me Something.
+2.Method: GET / give me Something.
 
 3.Method: POST / take Something.
 
@@ -28,7 +28,7 @@ DELETE (accepts an id).
 
 1.A button to fetch the word by the GET to / give me Something.
 
-2. A box that paints all the words obtained, each followed by an Edit button, which fetches PUT to / change Something; and another for Delete, which fetches DELETE to / deletes Something.
+2.A box that paints all the words obtained, each followed by an Edit button, which fetches PUT to / change Something; and another for Delete, which fetches DELETE to / deletes Something.
 
 3.A text input to save the user's word.
 
