@@ -4,9 +4,9 @@
 
 Contains 4 endpoints:
 
-GET (returns a collection of objects)
-POST (returns an object)
-PUT (accepts an id and returns an object)
+GET (returns a collection of objects).
+POST (returns an object).
+PUT (accepts an id and returns an object).
 DELETE (accepts an id).
 
 The BACKEND must contain:
