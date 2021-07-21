@@ -1,6 +1,6 @@
 # ExpressNodeFirebase
 
-### `Program that creates a web server with Express and Firebase (Web Server MVC)`
+### Program that creates a web server with Express and Firebase (Web Server MVC)
 
 Contains 4 endpoints:
 
